@@ -1,0 +1,4 @@
+The fog index is commonly used to confirm that text can be read
+easily by the intended audience. Texts for a wide audience generally
+need a fog index less than 12. Texts requiring near-universal
+understanding generally need an index less than 8.
